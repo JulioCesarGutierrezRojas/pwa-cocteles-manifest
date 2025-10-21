@@ -1,0 +1,21 @@
+{
+    "name": "PWA de Cócteles",
+    "short_name": "Cócteles",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0000ff",
+    "description": "Esta es una aplicación web progresiva de ejemplo con un buscador de cócteles",
+    "icons": [
+        {
+        "src": "/images/icons/192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+        },
+        {
+        "src": "/images/icons/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+        }
+    ]
+}
