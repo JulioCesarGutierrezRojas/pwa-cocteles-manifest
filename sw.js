@@ -1,10 +1,10 @@
 const cacheName = 'cocktail-pwa-v1';
 
 const appShellAssets = [
-    '/',
-    '/index.html',
-    '/main.js',
-    '/app.js'
+    './',
+    './index.html',
+    './main.js',
+    './app.js'
 ]
 
 const OFFLINE_COCKTAIL_JSON = {
